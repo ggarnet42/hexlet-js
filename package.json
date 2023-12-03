@@ -1,0 +1,18 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "my package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ggarnet42",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "10.1.0"
+  }
+}
