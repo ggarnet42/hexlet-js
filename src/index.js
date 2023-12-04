@@ -1,5 +1,5 @@
 export default (age) => {
-    const birthYear = 2005; // Подсчитываем результат
-  
-    return birthYear;
-  };
+  const birthYear = 2005; // Подсчитываем результат
+
+  return birthYear;
+};
